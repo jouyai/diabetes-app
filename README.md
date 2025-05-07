@@ -8,10 +8,3 @@ Proyek ini adalah form untuk mengumpulkan input dari pengguna berupa nilai desim
 - **Validasi Input:** Menggunakan atribut `step` untuk memastikan hanya angka desimal dengan presisi hingga tiga tempat desimal yang diterima (contoh: 0.928, 0.263).
 - **Field Wajib Diisi:** Atribut `required` memastikan pengguna tidak dapat mengirim form tanpa mengisi field ini.
 
-## Cara Penggunaan
-
-1. **Clone atau Download Proyek**  
-   Untuk memulai, kamu bisa mendownload atau meng-clone repository ini ke komputer lokalmu.
-
-   ```bash
-   git clone https://github.com/username/project-name.git
