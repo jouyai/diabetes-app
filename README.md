@@ -1,7 +1,7 @@
 # Diabetes Pedigree Function Form
 
 ## Deskripsi
-Proyek ini adalah form untuk mengumpulkan input dari pengguna berupa nilai desimal untuk *Diabetes Pedigree Function*, yang digunakan dalam model prediksi diabetes. Form ini dibuat dengan HTML dan dilengkapi dengan validasi input agar hanya menerima angka desimal dengan presisi tertentu.
+Proyek ini adalah form untuk mengumpulkan input dari pengguna berupa nilai desimal untuk *Diabetes Pedigree Function*, yang digunakan dalam model prediksi diabetes.
 
 ## Fitur Utama
 - **Input Angka Desimal:** Menggunakan elemen input bertipe `number` yang memungkinkan pengguna untuk memasukkan angka desimal.
